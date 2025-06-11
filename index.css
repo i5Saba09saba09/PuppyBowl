@@ -1,0 +1,4 @@
+body { font-family: sans-serif; padding: 20px; }
+    .puppy-card { border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; }
+    .puppy-card img { width: 100px; height: auto; }
+    form { margin-top: 20px; }
